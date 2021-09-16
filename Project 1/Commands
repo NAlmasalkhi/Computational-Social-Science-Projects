@@ -1,0 +1,9 @@
+git clone https://github.com/NAlmasalkhi/Computational-Social-Science-Projects.git
+ls
+cd Computational-Social-Science-Projects/
+mkdir Project\ 1
+cd Project\ 1
+vim Commands
+git add Commands
+git commit -m "I created a new folder in the repo and within it, I  created a text file with the commands."
+git push
